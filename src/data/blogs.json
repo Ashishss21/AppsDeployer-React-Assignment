@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Angular Developer Survey 2022 Results Summary",
+    "content": "The Angular team is evidence driven — we collect feedback from developers to decide what should be part of our roadmap. We get data from dozens of sources such as conversations with people, comments on social media, surveys, market research, and much more. One of the main sources which helps us make informed decisions is our annual developer survey. In 2022 we increased the number of questions which helped us get a more comprehensive look into the opportunities for Angular. We’re grateful to all the over 12k developers who shared their feedback with us! In the section below, you’ll learn more about the results and how they connect to our roadmap.",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IqSLoydVQwWsVmlchl5B4A.png",
+    "category": "Web Development"
+  },
+  {
+    "id": 2,
+    "title": "Vue 3 Script Setup Macros",
+    "content": "Vue 3 Script Setup is the recommended syntax if you are using both Single File Components and Composition API. It provides a clean and concise structure that significantly reduces boilerplate code. The main idea behind composition API is to explicitly import every helper that you need to use. For example, in the following code, both ref and computed are imported from the Vue Core. But there are some helpers that don't need to be imported and are always available in our components. These helpers are called compiler macros. Let’s explore four of them: defineProps, defineEmits, defineExpose and defineOptions.",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*4SfwRWkuhUTjAVbkImRsAg.png",
+    "category": "Web Development"
+  },
+  {
+    "id": 3,
+    "title": "Angular vs. Django HTML Templates",
+    "content": "MDN Web Docs has two great articles on client-side web frameworks (e.g., Angular, React, Vue) and server-side web frameworks (e.g., Django, Express, Ruby on Rails, Laravel). Client-side web frameworks (e.g., Angular, React) need a back end for storing data, whether it’s Firebase or your own server-side web framework (e.g., Django, Express) connected to a database and storage. However if you start with a server-side web framework, you don’t necessarily need a client-side web framework.",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*JwHZk1GBT2J_Occshp-TLQ.jpeg",
+    "category": "Technology"
+  },
+  {
+    "id": 4,
+    "title": "The Mysterious Time-to-DateTime Conversion: Unraveling Ruby’s Unexpected Behavior",
+    "content": "’m currently engaged in the challenging task of upgrading a massive Ruby on Rails monolith. This unique experience has allowed me to dive into unfamiliar territory, learn new things, and engage with numerous stakeholders. Amid fixing a failing spec on the new Rails version, I stumbled upon the following behavior. I recently stumbled upon a perplexing discrepancy while converting Time to DateTime using the #to_datetime method. Intrigued by this unexpected behavior, I delved into an investigation to unravel its root cause. I’ll share my findings in this blog post with you, as I believe it’s worth your attention. Introduction",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*qio1yP9YiGzc_40SZYFSXQ.png",
+    "category": "Sports"
+  },
+  {
+    "id": 5,
+    "title": "Javascript is replacing your $400 scanner",
+    "content": "We now live in an age where you no longer need to buy a $400 printer to scan documents. Tools like Adobe Scan and CamScanner allow you to do it straight from your phone! Web developers are constantly pushing the limits of what can be accomplished on the web. Now, you can create a scanner with just Javascript. We’ll be doing this in a web environment. If you want to do this server side or on React, jscanify supports it too (you’ll need to check the documentation though).",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*lOC0dezp_w1ecsMI0yui6w.png",
+    "category": "Fashion"
+  },
+  {
+    "id": 6,
+    "title": "A hard (but critical) skill to learn as a new developer",
+    "content": "Novice developers struggle particularly when first faced with documentation. This stuff is difficult. But it’s still a challenge for experienced programmers, alike! Veterans often struggle to understand the docs. Or, they avoid the docs because they don’t want to take the time and effort to parse them. I don’t always blame them. The docs can be dense, and often they’re poorly written. Having contributed to technical projects, I know it’s really hard to write good docs. Often, the docs you have are confusing. They’re still a gold mine of information if you can sit with the difficulty long enough.",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*ag3fAE5kKc0qPcBvfTCvmA.png",
+    "category": "Technology"
+  }
+]
