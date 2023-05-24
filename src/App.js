@@ -58,8 +58,8 @@ const App = () => {
               exact
               path="/"
               element={
-                <div className="container bg-white">
-                  <h1>Blogs</h1>
+                <div className="container bg-white p-3">
+                  <h1 className="font-weight-bold display-5 text-center">Blogs</h1>
                   <BlogList
                     blogs={filteredBlogs}
                     onBlogClick={handleBlogClick}

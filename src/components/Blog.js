@@ -8,7 +8,7 @@ const Blog = ({ blog }) => {
 
   return (
     <div className="d-flex flex-row m-4">
-      <div className="col-md-6 h-75 m-2 p-2">
+      <div className="col-12 col-md-6 h-75 m-2 p-2">
         <div className="bg-light p-4 m-auto w-100 h-75 rounded-xl">
           <img src={blog.imageUrl} alt={blog.title} className="w-100 h-50" />
           <h3>{blog.title}</h3>
@@ -16,7 +16,7 @@ const Blog = ({ blog }) => {
           <a href={`/blogs/${blog.id}`}>Read More</a>
         </div>
       </div>
-      <div className="col-md-6 h-75 m-2 p-2">
+      <div className="col-12 col-md-6 h-75 m-2 p-2">
         <div className="bg-light p-4 m-auto w-100 h-75 rounded-xl">
           <img src={blog.imageUrl} alt={blog.title} className="w-100 h-50" />
           <h3>{blog.title}</h3>
